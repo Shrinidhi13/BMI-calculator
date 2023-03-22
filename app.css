@@ -1,0 +1,16 @@
+p {
+    padding: 8px;
+    margin: 15px;
+    background-color: #33475b;
+    border-radius: 10px;
+    color: rgb(245, 248, 246);
+}
+
+button {
+    padding: 8px;
+    margin: 20px;
+}
+
+.card-body {
+    background-color: rgb(71, 10, 152);
+}
